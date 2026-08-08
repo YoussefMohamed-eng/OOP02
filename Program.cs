@@ -12,6 +12,13 @@
             // while an instance of a struct is stored on the stack and accessed directly.
             // Additionally, classes support inheritance and polymorphism, while structs do not.
             #endregion
+            #region Question 02
+            ///b) Why are classes more suitable than structs for large applications?
+            // Classes are more suitable for large applications because they provide more features and flexibility than structs.
+            // Classes support inheritance, polymorphism, and encapsulation, which are important concepts in object-oriented programming.
+            // Additionally, classes can have constructors, destructors, and finalizers, which allow for better resource management.
+            // Finally, classes can be used to create complex data structures and can be easily extended and modified as the application grows.
+            #endregion
         }
     }
 }
