@@ -19,6 +19,17 @@
             // Additionally, classes can have constructors, destructors, and finalizers, which allow for better resource management.
             // Finally, classes can be used to create complex data structures and can be easily extended and modified as the application grows.
             #endregion
+            #region Question 03
+            ///a) Which class is the parent class?
+            // The parent class is The Shipment class
+            ///b) Which class is the child class?
+            //The child class is The ExpressShipment class
+            ///c) What members are inherited by ExpressShipment?
+            // TrackingCode
+            ///d) Why is inheritance better than duplicating the same code in multiple classes?
+            // Inheritance is better than duplicating the same code in multiple classes
+            // because it promotes code reusability and maintainability.
+            #endregion
         }
     }
 }
